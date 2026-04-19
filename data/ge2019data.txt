@@ -1,0 +1,8 @@
+@inproceedings{ge2019data,
+  title={Data Mining Techniques for the Analysis and Prediction in Bioenergy Yield},
+  author={Ge, Mengyu and Liu, Han and Liu, Yilin and Zheng, Changgang},
+  booktitle={2019 International Conference on Artificial Intelligence and Advanced Manufacturing (AIAM)},
+  pages={214--217},
+  year={2019},
+  organization={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{qian2025edge,
+  title={Edge Acceleration of LiDAR Frame Transmission with In-network Machine Learning},
+  author={Qian, Peng and Zheng, Changgang and Zilberman, Noa},
+  booktitle={Proceedings of the 8th International Workshop on Edge Systems, Analytics and Networking},
+  pages={13--18},
+  year={2025}
+}

@@ -1,0 +1,6 @@
+@article{zang2024federated,
+  title={Federated In-Network Machine Learning for Privacy-Preserving IoT Traffic Analysis},
+  author={Zang, Mingyuan and Zheng, Changgang and Koziak, Tomasz and Zilberman, Noa and Dittmann, Lars},
+  journal={ACM Transactions on Internet Technology (TOIT)},
+  year={2024}
+}

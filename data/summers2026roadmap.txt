@@ -1,0 +1,14 @@
+@article{Summers_2026,
+doi = {10.1088/2632-2153/ae484b},
+url = {https://doi.org/10.1088/2632-2153/ae484b},
+year = {2026},
+month = {mar},
+publisher = {IOP Publishing},
+volume = {7},
+number = {2},
+pages = {021501},
+author = {Summers, Sioni and Tapper, Alex and Årrestad, Thea Klæboe and Qin, Chen and Rathsman, Karin and Streeter, Matthew and Palmer, Charlotte and Citrin, Jonathan and Zheng, Changgang and Zilberman, Noa and Titterton, Alexander and Becker, Tobias},
+title = {Roadmap on fast machine learning for science},
+journal = {Machine Learning: Science and Technology},
+abstract = {The need for microsecond speed machine learning (ML) inference for particle physics experiments has emerged in recent years, in particular for the forthcoming upgrades to the experiments at the Large Hadron Collider at CERN. A community has grown around the need to develop the custom hardware platforms and tools required. The material presented in this report is drawn from the latest workshop held by the fast ML for science community and comprises of a collection of perspectives on the status of fast ML in different scientific domains, and the supporting technology.}
+}

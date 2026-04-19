@@ -1,0 +1,7 @@
+@incollection{zang2022p4pir,
+  title={{P4Pir: In-Network Analysis for Smart IoT Gateways}},
+  author={Zang, Mingyuan and Zheng, Changgang and Stoyanov, Radostin and Dittmann, Lars and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
+  pages={46--48},
+  year={2022}
+}

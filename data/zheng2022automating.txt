@@ -1,0 +1,8 @@
+@misc{zheng2022automating,
+      title={Automating In-Network Machine Learning}, 
+      author={Changgang Zheng and Mingyuan Zang and Xinpeng Hong and Riyad Bensoussane and Shay Vargaftik and Yaniv Ben-Itzhak and Noa Zilberman},
+      year={2022},
+      eprint={2205.08824},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI}
+}

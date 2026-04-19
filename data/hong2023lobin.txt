@@ -1,0 +1,8 @@
+@inproceedings{hong2023lobin,
+  title={{LOBIN: In-Network Machine Learning for Limit Order Books}},
+  author={{Hong}, Xinpeng and Zheng, Changgang and Zohren, Stefan and Zilberman, Noa},
+  booktitle={2023 IEEE 24th International Conference on High Performance Switching and Routing (HPSR)},
+  pages={159--166},
+  year={2023},
+  organization={IEEE}
+}

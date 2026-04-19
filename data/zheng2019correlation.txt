@@ -1,0 +1,10 @@
+@article{zheng2019correlation,
+  title={Correlation analysis between the SUVmax of FDG-PET/CT and clinicopathological characteristics in oral squamous cell carcinoma},
+  author={Zheng, Dong and Niu, Lixuan and Liu, Wenpeng and Zheng, Changgang and Yan, Ruyi and Gong, Liyan and Dong, Zhongxing and Li, Ke and Fei, Jun},
+  journal={Dentomaxillofacial Radiology},
+  volume={48},
+  number={5},
+  pages={20180416},
+  year={2019},
+  publisher={The British Institute of Radiology.}
+}

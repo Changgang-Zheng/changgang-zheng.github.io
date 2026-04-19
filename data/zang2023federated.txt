@@ -1,0 +1,6 @@
+@article{zang2023federated,
+  title={Federated learning-based in-network traffic analysis on IoT edge},
+  author={Zang, Mingyuan and Zheng, Changgang and Koziak, Tomasz and Zilberman, Noa and Dittmann, Lars},
+  journal={Security for IoT Networks and Devices in 6G (Sec4IoT), IFIP Networking},
+  year={2023}
+}

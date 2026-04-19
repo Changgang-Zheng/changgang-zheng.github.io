@@ -1,0 +1,18 @@
+@InProceedings{10.1007/978-3-031-77918-3_18,
+author="Liu, Xi
+and Zheng, Changgang
+and Chen, Zhen
+and Liao, Yong
+and Chen, Ren
+and Yang, Shufan",
+editor="Bramer, Max
+and Stahl, Frederic",
+title="Reinforcement Learning for Patient Scheduling with Combinatorial Optimisation",
+booktitle="Artificial Intelligence XLI",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="238--243",
+abstract="Patient scheduling is a complex task that plays a crucial role in the quality of care. Effective scheduling management mitigates dissatisfaction among patients and physicians, serving as a crucial indicator. Traditionally, the approach to patient scheduling has been ad hoc, often overlooking key factors that may influence scheduling.",
+isbn="978-3-031-77918-3"
+}

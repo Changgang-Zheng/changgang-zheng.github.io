@@ -1,0 +1,7 @@
+@incollection{zheng2021planter,
+  title={Planter: seeding trees within switches},
+  author={Zheng, Changgang and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'21 Poster and Demo Sessions},
+  pages={12--14},
+  year={2021}
+}

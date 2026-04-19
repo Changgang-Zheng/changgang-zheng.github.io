@@ -1,0 +1,8 @@
+@inproceedings{zheng2019novel,
+  title={A Novel Maze Representation Approach for Finding Filled Path of A Mobile Robot},
+  author={Zheng, Changgang and Liu, Han and Ge, Mengyu and Liu, Yilin},
+  booktitle={2019 International Conference on Computer, Network, Communication and Information Systems (CNCI 2019)},
+  pages={664--673},
+  year={2019},
+  organization={Atlantis Press}
+}

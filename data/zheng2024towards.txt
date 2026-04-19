@@ -1,0 +1,5 @@
+@article{zheng2024towards,
+  title={{Towards In-Network Machine Learning on Programmable Network Devices}},
+  author={Changgang Zheng},
+  note = {DPhil Thesis, University of Oxford, 2024}
+}

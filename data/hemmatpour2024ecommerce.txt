@@ -1,0 +1,6 @@
+@incollection{hemmatpour2024ecommerce,
+  title={{E-Commerce Bot Traffic: In-Network Impact, Detection, and Mitigation}},
+  author={Hemmatpour, Masoud and Zheng, Changgang and Zilberman, Noa},
+  booktitle={7th Conference on Innovation in Clouds, Internet and Networks (ICIN)},
+  year={2024}
+}

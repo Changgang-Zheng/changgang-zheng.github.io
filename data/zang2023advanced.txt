@@ -1,0 +1,6 @@
+@article{zangadvanced,
+  title={Advanced Threat Defense with In-Network Traffic Analysis for IoT Gateways},
+  author={Zang, Mingyuan and Zheng, Changgang and Dittmann, Lars and Zilberman, Noa},
+  booktitle={MobiUK},
+  year={2023}
+}

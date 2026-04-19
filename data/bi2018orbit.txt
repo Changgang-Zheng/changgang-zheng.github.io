@@ -1,0 +1,7 @@
+@inproceedings{bi2018orbit,
+  title={In-orbit Experimental of Satellite-induced Code Pseudorange Deviations of BeiDou System},
+  author={Bi, Shaojun and Zheng, Changgang and Yang, Congwei and Zheng, Jinjun and He, Chengyan and Liu, Jiaxing},
+  booktitle={Proceedings of the 31st International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GNSS+ 2018)},
+  pages={1257--1267},
+  year={2018}
+}

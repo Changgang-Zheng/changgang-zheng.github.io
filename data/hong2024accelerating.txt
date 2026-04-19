@@ -1,0 +1,7 @@
+@incollection{hong2024accelerating,
+  title={{Accelerating Machine Learning for Trading Using Programmable Switches}},
+  author={Hong, Xinpeng and Zheng, Changgang and Lilley, Joshua and Zohren, Stefan and Zilberman, Noa},
+  booktitle={27th European Conference on Artificial Intelligence (ECAI)},
+  year={2024},
+  publisher={IOS Press}
+}

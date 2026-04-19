@@ -1,0 +1,8 @@
+@article{parra2021event,
+  title={Event-driven temporal models for explanations-ETeMoX: explaining reinforcement learning},
+  author={Parra-Ullauri, Juan Marcelo and Garc{\'\i}a-Dom{\'\i}nguez, Antonio and Bencomo, Nelly and Zheng, Changgang and Zhen, Chen and Boubeta-Puig, Juan and Ortiz, Guadalupe and Yang, Shufan},
+  journal={Software and Systems Modeling},
+  pages={1--23},
+  year={2021},
+  publisher={Springer}
+}

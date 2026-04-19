@@ -1,0 +1,10 @@
+@ARTICLE{zhang2026design,
+  author={Zhang, Kaiyi and Zheng, Changgang and Samaan, Nancy and Karmouch, Ahmed and Zilberman, Noa},
+  journal={IEEE Transactions on Network and Service Management},
+  title={Design, Implementation, and Deployment of Multi-Task Neural Networks in Programmable Data-Planes},
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Multitasking;Artificial neural networks;Pipelines;Hardware;Accuracy;Trees (botanical);Software;Computational modeling;Scalability;Machine learning;In-network computing;P4;multi-task learning;neural networks;programmable data-planes},
+  doi={10.1109/TNSM.2025.3629642}}

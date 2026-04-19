@@ -1,0 +1,84 @@
+@inproceedings{10.1145/3365609.3365864,
+author = {Xiong, Zhaoqi and Zilberman, Noa},
+title = {Do Switches Dream of Machine Learning? Toward In-Network Classification},
+year = {2019},
+isbn = {9781450370202},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3365609.3365864},
+doi = {10.1145/3365609.3365864},
+abstract = {Machine learning is currently driving a technological and societal revolution. While programmable switches have been proven to be useful for in-network computing, machine learning within programmable switches had little success so far. Not using network devices for machine learning has a high toll, given the known power efficiency and performance benefits of processing within the network. In this paper, we explore the potential use of commodity programmable switches for in-network classification, by mapping trained machine learning models to match-action pipelines. We introduce IIsy, a software and hardware based prototype of our approach, and discuss the suitability of mapping to different targets. Our solution can be generalized to additional machine learning algorithms, using the methods presented in this work.},
+booktitle = {Proceedings of the 18th ACM Workshop on Hot Topics in Networks},
+pages = {25–33},
+numpages = {9},
+location = {Princeton, NJ, USA},
+series = {HotNets '19}
+}
+
+
+@incollection{zheng2021planter,
+  title={Planter: seeding trees within switches},
+  author={Zheng, Changgang and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'21 Poster and Demo Sessions},
+  pages={12--14},
+  year={2021}
+}
+
+
+@misc{zheng2022iisy,
+  doi = {10.48550/ARXIV.2205.08243},
+  
+  url = {https://arxiv.org/abs/2205.08243},
+  
+  author = {Zheng, Changgang and Xiong, Zhaoqi and Bui, Thanh T and Kaupmees, Siim and Bensoussane, Riyad and Bernabeu, Antoine and Vargaftik, Shay and Ben-Itzhak, Yaniv and Zilberman, Noa},
+  
+  keywords = {Networking and Internet Architecture (cs.NI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {IIsy: Practical In-Network Classification},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+
+@misc{zheng2022automating,
+      title={Automating In-Network Machine Learning}, 
+      author={Changgang Zheng and Mingyuan Zang and Xinpeng Hong and Riyad Bensoussane and Shay Vargaftik and Yaniv Ben-Itzhak and Noa Zilberman},
+      year={2022},
+      eprint={2205.08824},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI}
+}
+
+
+@incollection{zang2022p4pir,
+  title={P4Pir: In-Network Analysis for Smart IoT Gateways},
+  author={Zang, Mingyuan and Zheng, Changgang and Stoyanov, Radostin and Dittmann, Lars and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
+  year={2022}
+}
+
+
+@incollection{hong2022linnet,
+  title={Linnet: Limit Order Books Within Switches},
+  author={Hong, Xinpeng and Zheng, Changgang and Zohren, Stefan and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
+  year={2022}
+}
+
+
+@article{zang2023federated,
+  title={Federated learning-based in-network traffic analysis on IoT edge},
+  author={Zang, M and Zheng, C and Koziak, T and Zilberman, N and Dittmann, L},
+  year={2023}
+}
+
+@inproceedings{hong2023lobin,
+  title={{LOBIN: In-Network Machine Learning for Limit Order Books}},
+  author={Hong, Xinpeng and Zheng, Changgang and Zohren, Stefan and Zilberman, Noa},
+  booktitle={2023 IEEE 24rd International Conference on High Performance Switching and Routing (HPSR)},
+  year={2023}
+}

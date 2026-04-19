@@ -1,0 +1,7 @@
+@article{zheng2024planter,
+  title={{Planter: Rapid Prototyping of In-Network Machine Learning Inference}},
+  author={Changgang Zheng and Mingyuan Zang and Xinpeng Hong and Liam Perreault and Riyad Bensoussane and Shay Vargaftik and Yaniv Ben-Itzhak and Noa Zilberman},
+  journal={ACM SIGCOMM Computer Communication Review},
+  year={2024},
+  publisher={Association for Computing Machinery}
+}

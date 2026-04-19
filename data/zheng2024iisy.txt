@@ -1,0 +1,6 @@
+@misc{zheng2024iisy,
+  author = {Zheng, Changgang and Xiong, Zhaoqi and Bui, Thanh T and Kaupmees, Siim and Bensoussane, Riyad and Bernabeu, Antoine and Vargaftik, Shay and Ben-Itzhak, Yaniv and Zilberman, Noa}, 
+  title = {{IIsy: Hybrid In-Network Classification Using Programmable Switches}},
+  publisher = {IEEE/ACM Transactions on Networking},
+  year = {2024}
+}

@@ -1,0 +1,10 @@
+@inbook{liu2023noval,
+year = {2023},
+month = {11},
+author={Liu, Xi and Ma, Long, and Chen, Zhen and Zheng, Changgang and  Chen, Ren and Liao, Yong and and Yang, Shufan},
+pages = {216-221},
+title = {{A Novel State Space Exploration Method for the Sparse-Reward Reinforcement Learning Environment}},
+booktitle={Artificial Intelligence XL, 43rd SGAI International Conference on Artificial Intelligence},
+isbn = {978-3-031-47993-9},
+doi = {10.1007/978-3-031-47994-6_18}
+}

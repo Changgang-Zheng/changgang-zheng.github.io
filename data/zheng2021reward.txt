@@ -1,0 +1,11 @@
+@ARTICLE{9448192,
+  author={Zheng, Changgang and Yang, Shufan and Parra-Ullauri, Juan Marcelo and Garcia-Dominguez, Antonio and Bencomo, Nelly},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
+  title={Reward-Reinforced Generative Adversarial Networks for Multi-Agent Systems},
+  year={2022},
+  volume={6},
+  number={3},
+  pages={479-488},
+  keywords={Generative adversarial networks;Reinforcement learning;Base stations;Generators;Multi-agent systems;Mathematical model;Training;multi-agent;reinforcement learning;GAN;reward-reinforced GAN;airborne base station (ABS)},
+  doi={10.1109/TETCI.2021.3082204}
+  }

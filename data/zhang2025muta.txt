@@ -1,0 +1,7 @@
+@inproceedings{zhang2025muta,
+  title={{MUTA: Enabling Multi-Task Neural Network Inference in Programmable Data-Planes}},
+  author={Zhang, Kaiyi and Zheng, Changgang and Samaan, Nancy and Karmouch, Ahmed and Zilberman, Noa},
+  booktitle={2025 IEEE 26th International Conference on High Performance Switching and Routing (HPSR)},
+  year={2025},
+  organization={IEEE}
+}

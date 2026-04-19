@@ -1,0 +1,9 @@
+@ARTICLE{10365500,
+  author={Zheng, Changgang and Hong, Xinpeng and Ding, Damu and Vargaftik, Shay and Ben-Itzhak, Yaniv and Zilberman, Noa},
+  journal={IEEE Communications Surveys & Tutorials}, 
+  title={{In-Network Machine Learning Using Programmable Network Devices: A Survey}}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/COMST.2023.3344351}}

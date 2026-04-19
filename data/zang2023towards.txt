@@ -1,0 +1,7 @@
+@article{zang2023towards,
+  title={{Towards Continuous Threat Defense: In-Network Traffic Analysis for IoT Gateways}},
+  author={Zang, Mingyuan and Zheng, Changgang and Dittmann, Lars and Zilberman, Noa},
+  journal={IEEE Internet of Things Journal},
+  year={2023},
+  publisher={IEEE}
+}

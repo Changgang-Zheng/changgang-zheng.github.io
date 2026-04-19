@@ -1,0 +1,11 @@
+@article{Cobbinah_2022, 
+	doi = {10.1016/j.media.2022.102585}, 
+	url = {https://doi.org/10.1016%2Fj.media.2022.102585}, 
+	year = 2022, 
+	month = {aug}, 
+	publisher = {Elsevier {BV}}, 
+	pages = {102585}, 
+	author = {Bernard M. Cobbinah and Christian Sorg and Qinli Yang and Arvid Ternblom and Changgang Zheng and Wei Han and Liwei Che and Junming Shao}, 
+	title = {Reducing variations in multi-center Alzheimer's disease classification with convolutional adversarial autoencoder}, 
+	journal = {Medical Image Analysis} 
+}

@@ -1,0 +1,6 @@
+@inproceedings{zheng2023dinc,
+  title={{DINC: Toward Distributed In-Network Computing}},
+  author={Zheng, Changgang and Tang, Haoyue and Zang, Mingyuan and Hong, Xinpeng and Feng, Aosong and Tassiulas, Leandros and Zilberman, Noa},
+  booktitle={Proceedings of ACM CoNEXT'23},
+  year={2023}
+}

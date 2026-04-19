@@ -1,0 +1,10 @@
+@article{zheng2019relationship,
+  title={Relationship between the maximum standardized uptake value of fluoro-2-deoxyglucose-positron emission tomography/computed tomography and clinicopathological characteristics in tongue squamous cell carcinoma},
+  author={Zheng, Dong and Niu, Lixuan and Liu, Wenpeng and Zheng, Changgang and Yan, Ruyi and Gong, Liyan and Dong, Zhongxing and Fei, Jun and Li, Ke and others},
+  journal={Journal of Cancer Research and Therapeutics},
+  volume={15},
+  number={4},
+  pages={842},
+  year={2019},
+  publisher={Medknow Publications}
+}

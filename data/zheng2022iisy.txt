@@ -1,0 +1,17 @@
+@misc{zheng2022iisy,
+  doi = {10.48550/ARXIV.2205.08243},
+  
+  url = {https://arxiv.org/abs/2205.08243},
+  
+  author = {Zheng, Changgang and Xiong, Zhaoqi and Bui, Thanh T and Kaupmees, Siim and Bensoussane, Riyad and Bernabeu, Antoine and Vargaftik, Shay and Ben-Itzhak, Yaniv and Zilberman, Noa},
+  
+  keywords = {Networking and Internet Architecture (cs.NI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {IIsy: Practical In-Network Classification},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}

@@ -1,0 +1,7 @@
+@incollection{hong2022linnet,
+  title={{Linnet: Limit Order Books Within Switches}},
+  author={Hong, Xinpeng and Zheng, Changgang and Zohren, Stefan and Zilberman, Noa},
+  booktitle={Proceedings of the SIGCOMM'22 Poster and Demo Sessions},
+  pages={37--39},
+  year={2022}
+}

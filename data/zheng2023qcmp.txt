@@ -1,0 +1,7 @@
+@inproceedings{zheng2023qcmp,
+  title={{QCMP: Load Balancing via In-Network Reinforcement Learning}},
+  author={Zheng, Changgang and Rienecker, Benjamin and Zilberman, Noa},
+  booktitle={Proceedings of the 2nd ACM SIGCOMM Workshop on Future of Internet Routing \& Addressing},
+  pages={35--40},
+  year={2023}
+}

@@ -1,0 +1,6 @@
+@article{parra2023framework,
+  title={A Framework for History-Aware Hyperparameter Optimisation in Reinforcement Learning},
+  author={Parra-Ullauri, Juan Marcelo and Zhen, Chen and Garc{\'\i}a-Dom{\'\i}nguez, Antonio and Bencomo, Nelly and Zheng, Changgang and Boubeta-Puig, Juan and Ortiz, Guadalupe and Yang, Shufan},
+  journal={arXiv preprint arXiv:2303.05186},
+  year={2023}
+}
