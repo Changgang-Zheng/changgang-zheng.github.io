@@ -81,23 +81,30 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px
+  /* font-size: 14px */
+  font-size: 15.5px;
+  /* line-height: 1.2; */
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  /* font-size: 14px; */
+  font-size: 16.5px;
+  font-weight: 700;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  /* font-size: 22px; */
+  font-size: 25px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: 700
+  /* font-size: 14px; */
+  /* font-weight: 700 */
+  font-size: 16.5px;
+  font-weight: 700;
 }
 
 name {
