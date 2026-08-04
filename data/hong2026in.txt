@@ -1,0 +1,9 @@
+@misc{hong2026innetworkmarketpredictionusing,
+      title={In-Network Market Prediction Using Machine Learning and Limit Order Books}, 
+      author={Xinpeng Hong and Changgang Zheng and Joshua Lilley and Stefan Zohren and Noa Zilberman},
+      year={2026},
+      eprint={2608.02424},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2608.02424}, 
+}
