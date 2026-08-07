@@ -1,0 +1,9 @@
+@article{zhang2026from,
+  title        = {From Network Automation to Trustworthy Autonomous Networking in the LLM Era: A Network Control Intelligence Perspective},
+  author       = {Zhang, Tianzhu and Zheng, Changgang and Wang, Shanshan and Zhang, Yarui and Shi, Lina and Jin, Yue and Wang, Xiaofei and Qiu, Meikang},
+  journal      = {arXiv preprint arXiv:2608.01538},
+  year         = {2026},
+  eprint       = {2608.01538},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.NI}
+}
