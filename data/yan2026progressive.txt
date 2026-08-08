@@ -1,0 +1,9 @@
+@misc{yan2026progressivereplacementsequenceplanning,
+      title={Progressive Replacement Sequence Planning for Laser-Enhanced BeiDou Navigation Constellations}, 
+      author={Huan Yan and Juan A. Fraire and Ziqi Yang and Kanglian Zhao and Wenfeng Li and Jinjun Zheng and Ziyu Wang and Changgang Zheng},
+      year={2026},
+      eprint={2607.25235},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2607.25235}, 
+}
