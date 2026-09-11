@@ -1,0 +1,9 @@
+@misc{zhang2026aiagentsdetectrepair,
+      title={Can AI Agents Detect and Repair Artifact Drift in Network Experiments?}, 
+      author={Tianzhu Zhang and Weichen Tao and Changgang Zheng and Yusheng Zheng and Long Chen and Xiaoyi Fan and Meikang Qiu},
+      year={2026},
+      eprint={2609.09849},
+      archivePrefix={arXiv},
+      primaryClass={cs.NI},
+      url={https://arxiv.org/abs/2609.09849}, 
+}
