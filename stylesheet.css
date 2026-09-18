@@ -136,3 +136,16 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.venue-tag {
+  background:#2525ff;
+  color:#fff;
+  font-weight:700;
+  font-size:11px;
+  padding:1px 3px;
+  line-height:1.05;
+  display:inline-block;
+
+  vertical-align:middle;
+  transform:translateY(-1px);
+}
