@@ -1,0 +1,8 @@
+@inproceedings{zheng2026dioscuri,
+  title     = {{Dioscuri: A Dual-Solar-Array Cooperative Momentum Unloading System}},
+  author    = {Zheng, Changgang and Guo, Jianxin and Zhou, Liang and Zhang, Guoqi and Li, Jionghui and Wang, Luyuan and Zheng, Jinjun},
+  booktitle = {Proceedings of the 77th International Astronautical Congress (IAC 2026)},
+  year      = {2026},
+  address   = {Antalya, T\"urkiye},
+  note      = {Paper IAC-26-C1-1-7-x107032}
+}

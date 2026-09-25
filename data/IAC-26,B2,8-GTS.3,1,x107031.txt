@@ -1,0 +1,8 @@
+@inproceedings{zhang2026relay,
+  title     = {{A New Generation Commercial Data Relay Satellite System}},
+  author    = {Zhang, Liyan and Li, Bo and Zheng, Changgang},
+  booktitle = {Proceedings of the 77th International Astronautical Congress (IAC 2026)},
+  year      = {2026},
+  address   = {Antalya, T\"urkiye},
+  note      = {Paper IAC-26-B2-8-GTS.3-1-x107031}
+}
