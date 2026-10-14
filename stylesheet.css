@@ -149,3 +149,33 @@ span.highlight {
   vertical-align:middle;
   transform:translateY(-1px);
 }
+
+
+
+.papers-block {
+  width: 100%;
+  overflow-x: scroll;
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+
+.papers-block:hover {
+  scrollbar-color: #bbb transparent;
+}
+
+.papers-block::-webkit-scrollbar {
+  height: 8px;
+}
+
+.papers-block::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.papers-block::-webkit-scrollbar-thumb {
+  background: transparent;
+  border-radius: 4px;
+}
+
+.papers-block:hover::-webkit-scrollbar-thumb {
+  background: #bbb;
+}
