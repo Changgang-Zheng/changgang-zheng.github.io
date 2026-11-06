@@ -1,0 +1,9 @@
+@misc{yan2026halfslotlinkschedulingopen,
+      title={Half-Slot Link Scheduling for Open GNSS with $x$-Tx $y$-Rx Multibeam Phased Array Antennas}, 
+      author={Huan Yan and Kanglian Zhao and Wenfeng Li and Jinjun Zheng and Ziyu Wang and Changgang Zheng},
+      year={2026},
+      eprint={2610.30695},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2610.30695}, 
+}
