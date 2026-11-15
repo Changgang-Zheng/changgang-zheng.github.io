@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3828523.3857007,
+author = {Li, Mingxin and Song, Enge and Zuo, Yueshang and Liu, Xiaodong and Wen, Rong and Fu, Qiang and Antichi, Gianni and He, Jian and Tie, Jing and Shao, Zhou and Xue, Xiaobo and Xiao, Xiong and Zhong, Luyao and Zhang, Shaokai and Zhao, Jiangu and Lu, Jianyuan and Zhang, Shize and Sun, Xiaoqing and Zheng, Changgang and Fan, Zihao and Li, Haonan and Pan, Tian and Wu, Xiaomin and Song, Yang and Li, Xing and Lyu, Biao and Li, Meng and Dai, Haipeng and Chen, Guihai and Zhu, Shunmin},
+title = {Scaling LLM Agent Tool Access: The MCP Gateway},
+year = {2026},
+isbn = {9798400728181},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3828523.3857007},
+doi = {10.1145/3828523.3857007},
+abstract = {LLM agents increasingly rely on tool calling to complete tasks. Model Context Protocol (MCP) standardizes tool calling between LLM agents and tool providers. It reduces integration cost and drives rapid growth in tool scale. In production deployments, tool access becomes difficult to scale. On the tool provider side, legacy services are not directly callable through MCP; the rapid protocol development creates ongoing compatibility cost. On the agent side, the number of mounted tools is limited by the LLM context window and inference overhead; mounting a large tool set increases token usage and inference latency and can reduce task success rate. Moreover, for stateful MCP backends with multiple replicas, preserving session affinity increases client-side complexity.We present a cloud-scale MCP Gateway system. It breaks the direct-connect model on the data plane and offloads legacy service integration, consolidating incompatible MCP variants, access control, tool recommendation, and session-aware routing at the gateway. The conversion module supports 315 OpenAPI services in the cloud and integrates MCP transport variants. Session-aware routing decouples the scalability of the gateway layer and the MCP service layer. The hybrid retrieval engine sustains 98\% Top-15 recall; it scales agent tool access to 3,000+ tools with improved tool selection accuracy. We also share the lessons learned from deploying the gateway system in production.},
+booktitle = {Proceedings of the 2026 ACM SIGOPS Annual Technical Conference},
+pages = {1116–1132},
+numpages = {17},
+keywords = {Model Context Protocol, Gateway, Cloud Networks},
+location = {Hong Kong, China},
+series = {SIGOPS ATC '26}
+}
